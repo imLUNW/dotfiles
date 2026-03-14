@@ -1,5 +1,5 @@
-# dotfiles
-## Arch Linux
+# dotfile
+## Arch Linux X Hyprland
 - Hyprland
 - Kitty
 - ZSH
